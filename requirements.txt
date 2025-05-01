@@ -1,1 +1,4 @@
-
+aiogram==3.7.0
+gspread
+requests
+beautifulsoup4
